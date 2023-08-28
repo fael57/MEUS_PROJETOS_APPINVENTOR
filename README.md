@@ -1,2 +1,1 @@
-# MEUS_PROJETOS_APPINVENTOR
-Aqui estão meus projetos do app inventor
+# [v1.0] (https://github.com/fael57/Rafael-app-iventor-projetos/releases/tag/v1.0)
